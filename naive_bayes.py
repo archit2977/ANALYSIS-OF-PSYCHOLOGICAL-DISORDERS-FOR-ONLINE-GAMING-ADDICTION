@@ -1,22 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 24 00:15:34 2019
-
-@author: SHIVIN SALUJA
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 24 00:07:21 2019
-
-@author: SHIVIN SALUJA
-"""
-
-
-# coding: utf-8
-
-# In[57]:
-
 
 import numpy as np
 import pandas as pd
